@@ -174,10 +174,4 @@ Run `python packet_sniffer.py --help` for the built-in help.
 - Protocol identification is a simple label for display, not a full protocol-dissection or intrusion-detection engine.
 - Interface names and privilege requirements differ by operating system and configuration.
 
-## Repository hygiene
 
-Do not commit virtual environments, generated PCAPs, or captures containing real user/network data. The supplied `.gitignore` excludes these by default.
-
-## License
-
-Choose a license before publishing. For example, add an MIT `LICENSE` file if you want others to reuse, modify, and distribute the project under the MIT terms.
